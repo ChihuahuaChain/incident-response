@@ -15,7 +15,7 @@
 #### Information Gathering
 The Chihuahua Community was quick to react and tried to collect as many details as possible.
 - It started by performing a [domain whois](https://www.whois.com/whois/huainu.wtf), and since the registrar is based in the United States we promptly got in touch with them to [notify](https://twitter.com/Porkbun/status/1591957375933902848) the abuse.
-- A [reverse IP](https://reverseip.domaintools.com/search/?q=huainu.wtf) lookup of the website pointed to a hosting provider located in Hainoi, Vietnam
+- A [reverse IP](https://reverseip.domaintools.com/search/?q=huainu.wtf) lookup of the website pointed to a hosting provider located in Hanoi, Vietnam
 - The PDF Data from the project's pitch deck [showed](https://twitter.com/0xponci/status/1591933994605633537) it was created using Canva and the Author name pointed to a Vietnamese person named **Nguyễn Hoàng Minh** which is a fairly common name in Vietnam.
 - A user with the same name and, quoting from the (now removed) [Linkedin Profile](https://vn.linkedin.com/in/nghminh163) stated to have "Participated in a number of projects such as building Liquidity Pool, Swapping system" and to have "Knowledge about Web3 and DeFi, Smart Contract on EVM, Solana Chain and Terra Chain."
 - Further analysis brought us to the alleged scammer [github account](https://github.com/nghminh163/nghminh163) which revealed lot of personal details such as, [Facebook](https://facebook.com/nhm163), [e-mail](mailto:nghminh163@outlook.com) and the now removed [Linkedin Profile](https://vn.linkedin.com/in/nghminh163)
